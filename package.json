@@ -1,0 +1,14 @@
+{
+  "name": "luoye_xml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pn": "node script/createPN.js",
+    "vec": "opencv_createsamples.exe -vec pos.vec -info pos.txt -num 31 -w 50 -h 50",
+    "xml": "opencv_traincascade.exe -data xml -vec pos.vec -bg neg.txt -numPos 31 -numNeg 100 -numStages 20 -w 50 -h 50 -minHitRate 0.9999 -maxFalseAlarmRate 0.5 -mode ALL"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
