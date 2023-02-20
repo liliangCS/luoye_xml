@@ -9,6 +9,7 @@
 ./neg/17.jpg
 ./neg/18.jpg
 ./neg/19.jpg
+./neg/2.jpg
 ./neg/20.jpg
 ./neg/21.jpg
 ./neg/22.jpg
@@ -19,6 +20,7 @@
 ./neg/27.jpg
 ./neg/28.jpg
 ./neg/29.jpg
+./neg/3.jpg
 ./neg/30.jpg
 ./neg/31.jpg
 ./neg/32.jpg
@@ -29,6 +31,7 @@
 ./neg/37.jpg
 ./neg/38.jpg
 ./neg/39.jpg
+./neg/4.jpg
 ./neg/40.jpg
 ./neg/41.jpg
 ./neg/42.jpg
@@ -39,6 +42,7 @@
 ./neg/47.jpg
 ./neg/48.jpg
 ./neg/49.jpg
+./neg/5.jpg
 ./neg/50.jpg
 ./neg/51.jpg
 ./neg/52.jpg
@@ -49,17 +53,13 @@
 ./neg/57.jpg
 ./neg/58.jpg
 ./neg/59.jpg
+./neg/6.jpg
 ./neg/60.jpg
 ./neg/61.jpg
 ./neg/62.jpg
 ./neg/63.jpg
 ./neg/64.jpg
 ./neg/65.jpg
-./neg/66.jpg
-./neg/67.jpg
-./neg/68.jpg
-./neg/69.jpg
-./neg/70.jpg
-./neg/71.jpg
-./neg/72.jpg
-./neg/73.jpg
+./neg/7.jpg
+./neg/8.jpg
+./neg/9.jpg
